@@ -1,0 +1,10 @@
+Task I did:
+Since I have been using Github for a while now, I was able to skip some of the earlier task like setting up a github acount 
+and connecting your local directory with the remote one on GitHub. The first step that I needed to was was to step up a new SSH key for this repo 
+specifically so that I can clone it onto my locla device. After doing that, I created a new branch called my-new-branch off of the main branch of this repo and there I created a new txt file called question and random
+with random.txt being empty and qustion.txt having 2 questions and one answer. After creating those 2 files in the branch, I merge the changes done 
+on the branch back into the main branch and pushed the new changes after committing and adding them. Next, I started working on forking 
+a remote directory then after forking it, I cloned it using the SSH onto my local device. Then I created a branch off of the main branch on this
+forked repo called feature and added in my name and bu email in the attendees.txt file. Then I pushed the changes I made on the feature branch onto my remote repo. Now that 
+I have finished it, I requested a pull request on the actual repo I have forked from. Finally, my last task of the day is creating this 
+file that I'm writing in, describing the tasks I have done and pushing it onto github.
