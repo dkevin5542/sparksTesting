@@ -7,4 +7,5 @@ on the branch back into the main branch and pushed the new changes after committ
 a remote directory then after forking it, I cloned it using the SSH onto my local device. Then I created a branch off of the main branch on this
 forked repo called feature and added in my name and bu email in the attendees.txt file. Then I pushed the changes I made on the feature branch onto my remote repo. Now that 
 I have finished it, I requested a pull request on the actual repo I have forked from. Finally, my last task of the day is creating this 
-file that I'm writing in, describing the tasks I have done and pushing it onto github.
+file that I'm writing in, describing the tasks I have done and pushing it onto github. I have also summarized what I did on the ReadMe.md file which I would
+also be pushing.
